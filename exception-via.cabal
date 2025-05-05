@@ -1,6 +1,6 @@
 cabal-version:      1.12
 name:               exception-via
-version:            0.2.0.0
+version:            0.2.0.1
 description:
   Please see the README on GitHub at <https://github.com/parsonsmatt/exception-via#readme>
 
